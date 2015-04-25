@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
+  <head>
+    <title>RSSOwl Subscriptions</title>
+    <dateModified>Sat, 25 Apr 2015 20:11:44 MSK</dateModified>
+  </head>
+  <body>
+    <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
+      <outline text="Самара" rssowl:isSet="false" rssowl:id="18">
+        <outline text="Самара24.ру" xmlUrl="http://gorod.samara24.ru/news/rss" rssowl:id="19" />
+        <outline text="Интернет-газета Самара сегодня" xmlUrl="http://news.samaratoday.ru/texts/export/rss.xml" rssowl:id="20" />
+        <outline text="RegionSamara.ru - Новости." xmlUrl="http://regionsamara.ru/multi.rss.php" rssowl:id="21" />
+      </outline>
+      <outline text="Ставрополь" rssowl:isSet="false" rssowl:id="22">
+        <outline text="stvnews.ru" xmlUrl="http://stvnews.ru/latest_news/feed" rssowl:id="23" />
+      </outline>
+      <outline text="Рязань" rssowl:isSet="false" rssowl:id="24">
+        <outline text="7 новостей" xmlUrl="http://rss.7info.ru" rssowl:id="25" />
+        <outline text="RZN.info / Рязанские новости" xmlUrl="http://www.rzn.info/rss/news/ryazan.xml" rssowl:id="26" />
+      </outline>
+      <outline text="Анапа" rssowl:isSet="false" rssowl:id="27">
+        <outline text="Новости Анапы" xmlUrl="http://www.anapa-new.ru/novosti-anapa/rss" rssowl:id="28" />
+      </outline>
+      <outline text="Омск" rssowl:isSet="false" rssowl:id="497">
+        <outline text="НГС.НОВОСТИ" xmlUrl="http://news.ngs.ru/rss" rssowl:id="499" />
+        <outline text="Новости Омска и Омской области" xmlUrl="http://superomsk.ru/rss" rssowl:id="621" />
+        <outline text="РИА ОмскПресс" xmlUrl="http://omskpress.ru/rss.php" rssowl:id="683" />
+      </outline>
+      <outline text="Екатиренбург" rssowl:isSet="false" rssowl:id="715">
+        <outline text="E1.ru : Новости" xmlUrl="http://www.e1.ru/news/rdf/full.xml" rssowl:id="717" />
+        <outline text="66.ru — Городской портал Екатеринбурга" xmlUrl="http://66.ru/news/rss" rssowl:id="739" />
+        <outline text="Информационное агентство «Европейско-Азиатские Новости»" xmlUrl="http://eanews.ru/rss" rssowl:id="1041" />
+      </outline>
+    </outline>
+    <rssowl:label id="1" name="Important" order="0" color="163,21,2" />
+    <rssowl:label id="2" name="Work" order="1" color="200,118,10" />
+    <rssowl:label id="3" name="Personal" order="2" color="82,92,58" />
+    <rssowl:label id="4" name="To Do" order="3" color="92,101,126" />
+    <rssowl:label id="5" name="Later" order="4" color="82,16,0" />
+  </body>
+</opml>
+
