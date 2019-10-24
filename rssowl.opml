@@ -2,41 +2,378 @@
 <opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
   <head>
     <title>RSSOwl Subscriptions</title>
-    <dateModified>Sat, 25 Apr 2015 20:11:44 MSK</dateModified>
+    <dateModified>Thu, 24 Oct 2019 05:27:28 MSK</dateModified>
   </head>
   <body>
     <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
-      <outline text="Самара" rssowl:isSet="false" rssowl:id="18">
-        <outline text="Самара24.ру" xmlUrl="http://gorod.samara24.ru/news/rss" rssowl:id="19" />
-        <outline text="Интернет-газета Самара сегодня" xmlUrl="http://news.samaratoday.ru/texts/export/rss.xml" rssowl:id="20" />
-        <outline text="RegionSamara.ru - Новости." xmlUrl="http://regionsamara.ru/multi.rss.php" rssowl:id="21" />
-      </outline>
-      <outline text="Ставрополь" rssowl:isSet="false" rssowl:id="22">
-        <outline text="stvnews.ru" xmlUrl="http://stvnews.ru/latest_news/feed" rssowl:id="23" />
-      </outline>
-      <outline text="Рязань" rssowl:isSet="false" rssowl:id="24">
-        <outline text="7 новостей" xmlUrl="http://rss.7info.ru" rssowl:id="25" />
-        <outline text="RZN.info / Рязанские новости" xmlUrl="http://www.rzn.info/rss/news/ryazan.xml" rssowl:id="26" />
-      </outline>
-      <outline text="Анапа" rssowl:isSet="false" rssowl:id="27">
-        <outline text="Новости Анапы" xmlUrl="http://www.anapa-new.ru/novosti-anapa/rss" rssowl:id="28" />
-      </outline>
-      <outline text="Омск" rssowl:isSet="false" rssowl:id="497">
-        <outline text="НГС.НОВОСТИ" xmlUrl="http://news.ngs.ru/rss" rssowl:id="499" />
-        <outline text="Новости Омска и Омской области" xmlUrl="http://superomsk.ru/rss" rssowl:id="621" />
-        <outline text="РИА ОмскПресс" xmlUrl="http://omskpress.ru/rss.php" rssowl:id="683" />
-      </outline>
-      <outline text="Екатиренбург" rssowl:isSet="false" rssowl:id="715">
-        <outline text="E1.ru : Новости" xmlUrl="http://www.e1.ru/news/rdf/full.xml" rssowl:id="717" />
-        <outline text="66.ru — Городской портал Екатеринбурга" xmlUrl="http://66.ru/news/rss" rssowl:id="739" />
-        <outline text="Информационное агентство «Европейско-Азиатские Новости»" xmlUrl="http://eanews.ru/rss" rssowl:id="1041" />
+      <outline text="Региональные СМИ" rssowl:isSet="false" rssowl:id="189">
+        <outline text="Центральный Федеральный Округ" rssowl:isSet="false" rssowl:id="190">
+          <outline text="31 - Белгородская область" rssowl:isSet="false" rssowl:id="191">
+            <outline text="Крым Белогорье" xmlUrl="http://www.belogorsknews.ru/feeds/posts/default?alt=rss" rssowl:id="192" />
+            <outline text="Информационное агентство Бел.Ру" xmlUrl="http://www.bel.ru/incweb/news.xml" rssowl:id="193" />
+            <outline text="www.go31.ru: Новости Белгорода" xmlUrl="http://www.go31.ru/rss" rssowl:id="194" />
+            <outline text="BELIVE.RU" xmlUrl="http://belive.ru/feed" rssowl:id="195" />
+            <outline text="Пресс-служба МВД по Белгородской области" xmlUrl="https://31.xn--b1aew.xn--p1ai/news/rss" rssowl:id="196" />
+          </outline>
+          <outline text="32 - Брянская область" rssowl:isSet="false" rssowl:id="197">
+            <outline text="Yansk.ru - Новости Брянска" xmlUrl="http://yansk.ru/rss/0/news.xml" rssowl:id="198" />
+            <outline text="БрянскНОВОСТИ.RU" xmlUrl="http://bryansknovosti.ru/feed" rssowl:id="199" />
+            <outline text="Брянские новости" xmlUrl="https://www.bragazeta.ru/news/rss.xml?part=all" rssowl:id="200" />
+            <outline text="Пресс-служба МВД по Брянской области" xmlUrl="https://32.xn--b1aew.xn--p1ai/news/rss" rssowl:id="201" />
+          </outline>
+          <outline text="33 - Владимирская область" rssowl:isSet="false" rssowl:id="202">
+            <outline text="Новости" xmlUrl="https://zebra-tv.ru/rss" rssowl:id="203" />
+            <outline text="Новости Владимира" xmlUrl="http://progorod33.ru/rss" rssowl:id="204" />
+            <outline text="УМВД России по Владимирской области" xmlUrl="https://33.xn--b1aew.xn--p1ai/news/rss" rssowl:id="205" />
+          </outline>
+          <outline text="36 - Воронежская область" rssowl:isSet="false" rssowl:id="206">
+            <outline text="Воронежское информационное агентство" xmlUrl="https://riavrn.ru/rss" rssowl:id="207" />
+            <outline text="Новости Блокнот-Воронеж" xmlUrl="http://bloknot-voronezh.ru/rss_news.php" rssowl:id="208" />
+            <outline text="Новости Воронежа" xmlUrl="https://novostivoronezha.ru/feed" rssowl:id="209" />
+            <outline text="ГЛАВНОЕ УПРАВЛЕНИЕ МВД РОССИИ ПО ВОРОНЕЖСКОЙ ОБЛАСТИ" xmlUrl="https://36.xn--b1aew.xn--p1ai/news/rss" rssowl:id="210" />
+          </outline>
+          <outline text="37 - Ивановская область" rssowl:isSet="false" rssowl:id="211">
+            <outline text="Новости" xmlUrl="http://www.ivanovonews.ru/rss.php" rssowl:id="212" />
+            <outline text="Новости Частник.ru" xmlUrl="https://chastnik.ru/news/rss" rssowl:id="213" />
+            <outline text="Новости" xmlUrl="https://37.ru/rss-export" rssowl:id="214" />
+            <outline text="Пресс-служба МВД по Ивановской области" xmlUrl="https://37.xn--b1aew.xn--p1ai/news/rss" rssowl:id="215" />
+          </outline>
+          <outline text="40 - Калужская область" rssowl:isSet="false" rssowl:id="216">
+            <outline text="Калужский перекрёсток | Новости Калужской области | фото и видео из Калуги и Обнинска | городские новости для калужан | знакомства и приколы в Калуге" xmlUrl="http://www.kp40.ru/xml/news.xml" rssowl:id="217" />
+            <outline text="Новости Калуга — Калуга 24" xmlUrl="http://kaluga24.tv/news/feed" rssowl:id="218" />
+            <outline text="Калуга-Поиск" xmlUrl="http://www.kaluga-poisk.ru/rss/news.html" rssowl:id="219" />
+            <outline text="Новости Ника ТВ" xmlUrl="http://nikatv.ru/rss/news" rssowl:id="220" />
+            <outline text="УМВД России по Калужской области" xmlUrl="https://40.xn--b1aew.xn--p1ai/news/rss" rssowl:id="221" />
+          </outline>
+          <outline text="44 - Костромская область" rssowl:isSet="false" rssowl:id="222">
+            <outline text="Новости Костромы" xmlUrl="http://k1news.ru/news/rss/" rssowl:id="223" />
+            <outline text="Свежие новости" xmlUrl="http://smi44.ru/rss" rssowl:id="224" />
+            <outline text="lifekostroma.ru" xmlUrl="http://lifekostroma.ru/feed" rssowl:id="225" />
+            <outline text="УМВД России по Костромской области" xmlUrl="https://44.xn--b1aew.xn--p1ai/news/rss" rssowl:id="226" />
+          </outline>
+          <outline text="46 - Курская область" rssowl:isSet="false" rssowl:id="227">
+            <outline text="Происшествия" xmlUrl="http://kursktv.ru/taxonomy/term/9/0/feed" rssowl:id="228" />
+            <outline text="Курские известия" xmlUrl="http://kursk-izvestia.ru/news/rss" rssowl:id="229" />
+            <outline text="Пресс-служба МВД по Курской области" xmlUrl="https://46.xn--b1aew.xn--p1ai/news/rss" rssowl:id="230" />
+          </outline>
+          <outline text="48 - Липецкая область" rssowl:isSet="false" rssowl:id="231">
+            <outline text="Новости" xmlUrl="http://gorod48.ru/rss/rss.xml" rssowl:id="232" />
+            <outline text="Липецкое время" xmlUrl="http://lipetsktime.ru/rss_mainnews.php" rssowl:id="233" />
+            <outline text="Мост ТВ - Липецкие новости" xmlUrl="http://most.tv/rss" rssowl:id="234" />
+            <outline text="Пресс-служба МВД по Липецкой области" xmlUrl="https://48.xn--b1aew.xn--p1ai/news/rss" rssowl:id="235" />
+          </outline>
+          <outline text="50 - Московская область" rssowl:isSet="false" rssowl:id="236">
+            <outline text="Красногорск Online. Новости.Люди.Город" xmlUrl="http://www.krasnogorskonline.ru/news/rss" rssowl:id="237" />
+            <outline text="Новости, события, происшествия (Красногорск и Красногорский район)" xmlUrl="http://news.krasnogorsk.name/rss.xml" rssowl:id="238" />
+            <outline text="ГУ МВД России по Московской области" xmlUrl="https://50.xn--b1aew.xn--p1ai/news/rss" rssowl:id="239" />
+          </outline>
+          <outline text="57 - Орловская область" rssowl:isSet="false" rssowl:id="240">
+            <outline text="Орловские новости | Rss лента для Яндекс.Новости" xmlUrl="http://newsorel.ru/feed/all" rssowl:id="241" />
+            <outline text="Орловское информбюро" xmlUrl="http://www.oryol.ru/rss.xml" rssowl:id="242" />
+            <outline text="ИА &quot;Орелград&quot;" xmlUrl="https://orelgrad.ru/feed" rssowl:id="243" />
+            <outline text="Орел. Твой город в интернете" xmlUrl="http://www.infoorel.ru/news/rss2.php" rssowl:id="244" />
+            <outline text="Пресс-служба МВД по Орловской области" xmlUrl="https://57.xn--b1aew.xn--p1ai/news/rss" rssowl:id="245" />
+          </outline>
+          <outline text="62 - Рязанская область" rssowl:isSet="false" rssowl:id="246">
+            <outline text="RZN.info / Рязанские новости" xmlUrl="https://www.rzn.info/rss/news/ryazan.xml" rssowl:id="247" />
+            <outline text="RSS канал РИА &quot;7 новостей&quot;" xmlUrl="http://7info.ru/rss/index.xml" rssowl:id="248" />
+            <outline text="Новости Рязани - Pro Город Рязань" xmlUrl="http://progorod62.ru/rss" rssowl:id="249" />
+            <outline text="Пресс-служба МВД по Рязанской облачти" xmlUrl="https://62.xn--b1aew.xn--p1ai/news/rss" rssowl:id="250" />
+          </outline>
+          <outline text="67 - Смоленская область" rssowl:isSet="false" rssowl:id="251">
+            <outline text="Информагентство &quot;О чем говорит Смоленск&quot;" xmlUrl="https://smolensk-i.ru/feed" rssowl:id="252" />
+            <outline text="Смоленская народная газета" xmlUrl="http://smolnarod.ru/feed" rssowl:id="253" />
+            <outline text="Пресс-служба МВД по Смоленской области" xmlUrl="https://67.xn--b1aew.xn--p1ai/news/rss" rssowl:id="254" />
+          </outline>
+          <outline text="68 - Тамбовская область" rssowl:isSet="false" rssowl:id="255">
+            <outline text="Твой Тамбов" xmlUrl="http://tmb.news/rss" rssowl:id="256" />
+            <outline text="RSS лента / Life Tambov" xmlUrl="http://lifetambov.ru/index/rss.rss" rssowl:id="257" />
+            <outline text="Все тамбовские новости" xmlUrl="http://www.onlinetambov.ru/rss" rssowl:id="258" />
+            <outline text="Новый Век • новости Тамбова | 16+" xmlUrl="http://tvtambov.ru/?feed=rss2" rssowl:id="259" />
+            <outline text="Управление МВД России по Тамбовской области" xmlUrl="https://68.xn--b1aew.xn--p1ai/news/rss" rssowl:id="260" />
+          </outline>
+          <outline text="69 - Тверская область" rssowl:isSet="false" rssowl:id="261">
+            <outline text="Тверское Информационное Агентство" xmlUrl="https://tvernews.ru/daily.rss" rssowl:id="262" />
+            <outline text="Тверские ведомости" xmlUrl="https://vedtver.ru/rss" rssowl:id="263" />
+            <outline text="Новости портала eTver" xmlUrl="http://www.etver.ru/novosti/rss" rssowl:id="264" />
+            <outline text="Пресс-служба МВД по Тверской области" xmlUrl="https://69.xn--b1aew.xn--p1ai/news/rss" rssowl:id="265" />
+          </outline>
+          <outline text="71 - Тульская область" rssowl:isSet="false" rssowl:id="266">
+            <outline text="Тульские новости | Rss лента для Яндекс.Новости" xmlUrl="http://newstula.ru/feed/all" rssowl:id="267" />
+            <outline text="Центр 71" xmlUrl="http://www.n71.ru/rss/" rssowl:id="268" />
+            <outline text="Тульская Служба Новостей" xmlUrl="http://www.tsn24.ru/feed" rssowl:id="269" />
+            <outline text="Пресс-служба МВД по Тульской области" xmlUrl="https://71.xn--b1aew.xn--p1ai/news/rss" rssowl:id="270" />
+          </outline>
+          <outline text="76 - Ярославская область" rssowl:isSet="false" rssowl:id="271">
+            <outline text="76.ru / Новости и статьи" xmlUrl="http://76.ru/text/rss.xml" rssowl:id="272" />
+            <outline text="http://yarnovosti.com" xmlUrl="http://yarnovosti.com/rss.xml" rssowl:id="273" />
+            <outline text="Первый Ярославский телеканал" xmlUrl="http://1yar.tv/ru/rss" rssowl:id="274" />
+            <outline text="Новости Ярославля" xmlUrl="http://progorod76.ru/rss" rssowl:id="275" />
+            <outline text="ГТРК &quot;Ярославия&quot; - ГТРК &quot;Ярославия&quot; - новости Ярославля" xmlUrl="http://vesti-yaroslavl.ru/?format=feed&amp;type=rss" rssowl:id="276" />
+            <outline text="Пресс-служба МВД по Ярославской области" xmlUrl="https://76.xn--b1aew.xn--p1ai/news/rss" rssowl:id="277" />
+          </outline>
+          <outline text="77 - Москва" rssowl:isSet="false" rssowl:id="278">
+            <outline text="ТАСС" xmlUrl="http://tass.ru/rss/v2.xml?sections=MjA%3D" rssowl:id="279" />
+            <outline text="Агентство новостей Вечерняя Москва" xmlUrl="http://vm.ru/rss/vmdaily.xml" rssowl:id="280" />
+            <outline text="В Москве" xmlUrl="http://www.newsmsk.com/rss" rssowl:id="281" />
+            <outline text="ГУ МВД РОССИИ ПО Г. МОСКВЕ" xmlUrl="https://77.xn--b1aew.xn--p1ai/news/rss" rssowl:id="282" />
+          </outline>
+        </outline>
+        <outline text="Дальневосточный Федеральный Округ" rssowl:isSet="false" rssowl:id="283">
+          <outline text="14 - Республика Саха (Якутия)" rssowl:isSet="false" rssowl:id="284">
+            <outline text="News.Ykt.Ru: служба новостей" xmlUrl="http://news.ykt.ru/rss" rssowl:id="285" />
+            <outline text="ЯСИА — Новости Якутска и Якутии" xmlUrl="http://ysia.ru/feed" rssowl:id="286" />
+            <outline text="SakhaLife" xmlUrl="http://sakhalife.ru/feed" rssowl:id="287" />
+            <outline text="Якутия.Инфо" xmlUrl="http://yakutia.info/feed" rssowl:id="288" />
+            <outline text="Новости Блокнот-Якутск" xmlUrl="http://bloknot-yakutsk.ru/rss_news.php" rssowl:id="289" />
+            <outline text="SakhaDay" xmlUrl="http://sakhaday.ru/feed" rssowl:id="290" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://14.xn--b1aew.xn--p1ai/news/rss" rssowl:id="291" />
+          </outline>
+          <outline text="41 - Камчатский край" rssowl:isSet="false" rssowl:id="292">
+            <outline text="ИА «Кам 24»" xmlUrl="https://www.kam24.ru/export.php?rss" rssowl:id="293" />
+            <outline text="Русский Дальний Восток + Полуостров Камчатка / Полуостров Камчатка: Новости" xmlUrl="http://poluostrov-kamchatka.ru/pknews/rss/rss.php" rssowl:id="294" />
+            <outline text="КамИнформ" xmlUrl="http://kamchat.info/data/rss/5" rssowl:id="295" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://41.xn--b1aew.xn--p1ai/news/rss" rssowl:id="296" />
+          </outline>
+          <outline text="25 - Приморский край" rssowl:isSet="false" rssowl:id="297">
+            <outline text="Новости Владивостока и Приморского края -  Вести: Приморье" xmlUrl="http://vestiprim.ru/rss.xml" rssowl:id="298" />
+            <outline text="Vladnews.ru - Новости Владивосток и Дальнего Востока" xmlUrl="http://vladnews.ru/yanews.xml" rssowl:id="299" />
+            <outline text="Новости Приморья" xmlUrl="http://primorye.ru/data/news.svc/rss" rssowl:id="300" />
+            <outline text="RSS" xmlUrl="http://primamedia.ru/export/new/titlenews43.rss" rssowl:id="301" />
+            <outline text="PrimPress" xmlUrl="http://primpress.ru/rss.xml" rssowl:id="302" />
+            <outline text="Управление МВД России по Приморскому краю" xmlUrl="https://25.xn--b1aew.xn--p1ai/news/rss" rssowl:id="303" />
+          </outline>
+          <outline text="27 - Хабаровский край" rssowl:isSet="false" rssowl:id="304">
+            <outline text="Хабаровсе" xmlUrl="http://primamedia.ru/export/new/titlenews77.rss" rssowl:id="305" />
+            <outline text="Новости на DVhab.ru" xmlUrl="http://www.dvnovosti.ru/rss" rssowl:id="306" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://27.xn--b1aew.xn--p1ai/news/rss" rssowl:id="307" />
+          </outline>
+          <outline text="28 - Амурская область" rssowl:isSet="false" rssowl:id="308">
+            <outline text="ИА Амур.инфо" xmlUrl="http://www.amur.info/index.rss" rssowl:id="309" />
+            <outline text="Лента новостей" xmlUrl="https://portamur.ru/news/rss.php" rssowl:id="310" />
+            <outline text="Новости" xmlUrl="http://asn24.ru/news/rss.php" rssowl:id="311" />
+            <outline text="Amur.net Новости: новости Благовещенска и Амурской области" xmlUrl="https://amur.net/news/rss/region" rssowl:id="312" />
+            <outline text="ГТРК Амур" xmlUrl="http://gtrkamur.ru/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw" rssowl:id="313" />
+            <outline text="Gzt-sv.ru" xmlUrl="http://www.gzt-sv.ru/feed" rssowl:id="314" />
+            <outline text="Новости на DVhab.ru" xmlUrl="http://www.dvnovosti.ru/rss" rssowl:id="315" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://28.xn--b1aew.xn--p1ai/news/rss" rssowl:id="316" />
+          </outline>
+          <outline text="49 - Магаданская область" rssowl:isSet="false" rssowl:id="317">
+            <outline text="КОЛЫМА.RU Магадан - Главный новостной информационный портал" xmlUrl="http://www.kolyma.ru/engine/rss.php" rssowl:id="318" />
+            <outline text="Новости Без формата" xmlUrl="http://mgdn.bezformata.ru/rsstop.xml" rssowl:id="319" />
+            <outline text="Вести–Магадан" xmlUrl="http://vesti-magadan.ru/feed" rssowl:id="320" />
+            <outline text="Новости магадана" xmlUrl="http://magadanmedia.ru/bazar/rss.php?id=0&amp;id_region=31" rssowl:id="321" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://49.xn--b1aew.xn--p1ai/news/rss" rssowl:id="322" />
+          </outline>
+          <outline text="65 - Сахалинская область" rssowl:isSet="false" rssowl:id="323">
+            <outline text="ASTV | Новости" xmlUrl="http://astv.ru/rss/lenta" rssowl:id="324" />
+            <outline text="Сахалин" xmlUrl="http://sakhalinmedia.ru/bazar/rss.php?id=0&amp;id_region=64" rssowl:id="325" />
+            <outline text="Прокуратура Сахалинской области" xmlUrl="http://feeds.feedburner.com/sakhalinprokur" rssowl:id="326" />
+            <outline text="Сахалин Курилы" xmlUrl="https://skr.su/rss/all" rssowl:id="327" />
+            <outline text="УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИИ ПО САХАЛИНСКОЙ ОБЛАСТИ" xmlUrl="https://65.xn--b1aew.xn--p1ai/news/rss" rssowl:id="328" />
+          </outline>
+          <outline text="79 - Еврейская автономная область" rssowl:isSet="false" rssowl:id="329">
+            <outline text="ЕАО" xmlUrl="http://eaomedia.ru/bazar/rss.php?id=0&amp;id_region=11" rssowl:id="330" />
+            <outline text="Прокуратура Еврейской автономной области" xmlUrl="http://prokuror-eao.ru/feed" rssowl:id="331" />
+            <outline text="РИА Биробиджан" xmlUrl="http://riabir.ru/feed" rssowl:id="332" />
+            <outline text="ГТРК &quot;Бира&quot;" xmlUrl="http://biratv.ru/feed" rssowl:id="333" />
+            <outline text="Официальный сайт УМВД России по Еврейской автономной области" xmlUrl="https://79.xn--b1aew.xn--p1ai/news/rss" rssowl:id="334" />
+          </outline>
+          <outline text="87 - Чукотский автономный округ" rssowl:isSet="false" rssowl:id="335">
+            <outline text="ПроЧукотку.Ру" xmlUrl="http://prochukotku.ru/export.php?rss" rssowl:id="336" />
+            <outline text="Пресс-служба МВД" xmlUrl="https://87.xn--b1aew.xn--p1ai/news/rss" rssowl:id="337" />
+          </outline>
+        </outline>
+        <outline text="Северо-Западный Федеральный Округ" rssowl:isSet="false" rssowl:id="338">
+          <outline text="10 - Республика Карелия" rssowl:isSet="false" rssowl:id="339">
+            <outline text="МВД по Республике Карелия" xmlUrl="https://10.xn--b1aew.xn--p1ai/news/rss" rssowl:id="340" />
+          </outline>
+          <outline text="11 - Республика Коми" rssowl:isSet="false" rssowl:id="341">
+            <outline text="МВД по Республике Коми" xmlUrl="https://11.xn--b1aew.xn--p1ai/news/rss" rssowl:id="342" />
+          </outline>
+          <outline text="29 - Архангельская область" rssowl:isSet="false" rssowl:id="343">
+            <outline text="29.mvd.ru" xmlUrl="https://29.xn--b1aew.xn--p1ai/news/rss" rssowl:id="344" />
+          </outline>
+          <outline text="35 - Вологодская область" rssowl:isSet="false" rssowl:id="345">
+            <outline text="Пресс-служба МВД" xmlUrl="https://35.xn--b1aew.xn--p1ai/news/rss" rssowl:id="346" />
+          </outline>
+          <outline text="39 - Калининградская область" rssowl:isSet="false" rssowl:id="347">
+            <outline text="УМВД России по Калининградской области" xmlUrl="https://39.xn--b1aew.xn--p1ai/news/rss" rssowl:id="348" />
+          </outline>
+          <outline text="47 - Ленинградская область" rssowl:isSet="false" rssowl:id="349">
+            <outline text="www.gorodpushkin.ru: Новости Пушкина" xmlUrl="http://www.gorodpushkin.ru/rss" rssowl:id="350" />
+          </outline>
+          <outline text="51 - Мурманская область" rssowl:isSet="false" rssowl:id="351">
+            <outline text="Пресс-служба МВД" xmlUrl="https://51.xn--b1aew.xn--p1ai/news/rss" rssowl:id="352" />
+          </outline>
+          <outline text="53 - Новгородская область" rssowl:isSet="false" rssowl:id="353">
+            <outline text="Управление МВД России по Новгородской области" xmlUrl="https://53.xn--b1aew.xn--p1ai/news/rss" rssowl:id="354" />
+          </outline>
+          <outline text="60 - Псковская область" rssowl:isSet="false" rssowl:id="355">
+            <outline text="Пресс-служба МВД" xmlUrl="https://60.xn--b1aew.xn--p1ai/news/rss" rssowl:id="356" />
+          </outline>
+          <outline text="78 - Санкт-Петербург" rssowl:isSet="false" rssowl:id="357">
+            <outline text="Пресс-служба МВД по Санкт-Петербургу и Ленинградской области" xmlUrl="https://78.xn--b1aew.xn--p1ai/news/rss" rssowl:id="358" />
+            <outline text="БалтИнфо.ru" xmlUrl="http://baltinfo.ru/rss/all.xml" rssowl:id="359" />
+            <outline text="Фонтанка.Ру: Новости Санкт-Петербурга" xmlUrl="http://www.fontanka.ru/fontanka.rss" rssowl:id="360" />
+          </outline>
+          <outline text="83 - Ненецкий автономный округ" rssowl:isSet="false" rssowl:id="361">
+            <outline text="УМВД России по Ненецкому автономному округу" xmlUrl="https://83.xn--b1aew.xn--p1ai/news/rss" rssowl:id="362" />
+          </outline>
+        </outline>
+        <outline text="Приволжский Федеральный Округ" rssowl:isSet="false" rssowl:id="363">
+          <outline text="02 - Республика Башкортостан" rssowl:isSet="false" rssowl:id="364">
+            <outline text="Пресс-служба МВД" xmlUrl="https://02.xn--b1aew.xn--p1ai/news/rss" rssowl:id="365" />
+          </outline>
+          <outline text="12 - Республика Марий Эл" rssowl:isSet="false" rssowl:id="366">
+            <outline text="Министерство внутренних дел по Республике Марий Эл" xmlUrl="https://12.xn--b1aew.xn--p1ai/news/rss" rssowl:id="367" />
+          </outline>
+          <outline text="13 - Республика Мордовия" rssowl:isSet="false" rssowl:id="368">
+            <outline text="Пресс-служба МВД" xmlUrl="https://13.xn--b1aew.xn--p1ai/news/rss" rssowl:id="369" />
+          </outline>
+          <outline text="16 - Республика Татарстан" rssowl:isSet="false" rssowl:id="370">
+            <outline text="Пресс-служба МВД" xmlUrl="https://16.xn--b1aew.xn--p1ai/news/rss" rssowl:id="371" />
+          </outline>
+          <outline text="18 - Удмуртская Республика" rssowl:isSet="false" rssowl:id="372">
+            <outline text="Пресс-служба МВД" xmlUrl="https://18.xn--b1aew.xn--p1ai/news/rss" rssowl:id="373" />
+          </outline>
+          <outline text="21 - Чувашская Республика" rssowl:isSet="false" rssowl:id="374">
+            <outline text="Пресс-служба МВД" xmlUrl="https://21.xn--b1aew.xn--p1ai/news/rss" rssowl:id="375" />
+          </outline>
+          <outline text="59 - Пермский край" rssowl:isSet="false" rssowl:id="376">
+            <outline text="Пресс-служба МВД" xmlUrl="https://59.xn--b1aew.xn--p1ai/news/rss" rssowl:id="377" />
+          </outline>
+          <outline text="43 - Кировская область" rssowl:isSet="false" rssowl:id="378">
+            <outline text="Пресс-служба МВД" xmlUrl="http://43.xn--b1aew.xn--p1ai/news/rss" rssowl:id="379" />
+          </outline>
+          <outline text="52 - Нижегородская область" rssowl:isSet="false" rssowl:id="380">
+            <outline text="Пресс-служба МВД" xmlUrl="http://52.xn--b1aew.xn--p1ai/news/rss" rssowl:id="381" />
+          </outline>
+          <outline text="56 - Оренбургская область" rssowl:isSet="false" rssowl:id="382">
+            <outline text="УМВД России по Оренбургской области" xmlUrl="http://56.xn--b1aew.xn--p1ai/news/rss" rssowl:id="383" />
+          </outline>
+          <outline text="58 - Пензенская область" rssowl:isSet="false" rssowl:id="384">
+            <outline text="УМВД России по Пензенской области" xmlUrl="http://58.xn--b1aew.xn--p1ai/news/rss" rssowl:id="385" />
+          </outline>
+          <outline text="63 - Самарская область" rssowl:isSet="false" rssowl:id="386">
+            <outline text="Пресс-служба МВД" xmlUrl="http://63.xn--b1aew.xn--p1ai/news/rss" rssowl:id="387" />
+          </outline>
+          <outline text="64 - Саратовская область" rssowl:isSet="false" rssowl:id="388">
+            <outline text="Главное управление Министерства внутренних дел Российской Федерации по Саратовской области" xmlUrl="http://64.xn--b1aew.xn--p1ai/news/rss" rssowl:id="389" />
+          </outline>
+          <outline text="73 - Ульяновская область" rssowl:isSet="false" rssowl:id="390">
+            <outline text="УМВД России по Ульяновской области" xmlUrl="http://73.xn--b1aew.xn--p1ai/news/rss" rssowl:id="391" />
+          </outline>
+        </outline>
+        <outline text="Южный Федеральный Округ" rssowl:isSet="false" rssowl:id="392">
+          <outline text="01 - Республика Адыгея" rssowl:isSet="false" rssowl:id="393">
+            <outline text="МВД по Республике Адыгея" xmlUrl="http://01.xn--b1aew.xn--p1ai/news/rss" rssowl:id="394" />
+          </outline>
+          <outline text="08 - Республика Калмыкия" rssowl:isSet="false" rssowl:id="395">
+            <outline text="Пресс-служба МВД" xmlUrl="http://08.xn--b1aew.xn--p1ai/news/rss" rssowl:id="396" />
+          </outline>
+          <outline text="91 - Республика Крым" rssowl:isSet="false" rssowl:id="397">
+            <outline text="Пресс-служба МВД" xmlUrl="http://91.xn--b1aew.xn--p1ai/news/rss" rssowl:id="398" />
+          </outline>
+          <outline text="23 - Краснодарский край" rssowl:isSet="false" rssowl:id="399">
+            <outline text="Официальный сайт ГУ МВД России по Краснодарскому краю" xmlUrl="http://23.xn--b1aew.xn--p1ai/news/rss" rssowl:id="400" />
+          </outline>
+          <outline text="30 - Астраханская область" rssowl:isSet="false" rssowl:id="401">
+            <outline text="УМВД России по Астраханской области" xmlUrl="http://30.xn--b1aew.xn--p1ai/news/rss" rssowl:id="402" />
+          </outline>
+          <outline text="34 - Волгоградская область" rssowl:isSet="false" rssowl:id="403">
+            <outline text="Пресс-служба МВД" xmlUrl="http://34.xn--b1aew.xn--p1ai/news/rss" rssowl:id="404" />
+          </outline>
+          <outline text="61 - Ростовская область" rssowl:isSet="false" rssowl:id="405">
+            <outline text="ГЛАВНОЕ УПРАВЛЕНИЕ МВД РОССИИ ПО РОСТОВСКОЙ ОБЛАСТИ" xmlUrl="http://61.xn--b1aew.xn--p1ai/news/rss" rssowl:id="406" />
+          </outline>
+          <outline text="92 - Севастополь" rssowl:isSet="false" rssowl:id="407">
+            <outline text="УМВД России по г. Севастополю" xmlUrl="http://92.xn--b1aew.xn--p1ai/news/rss" rssowl:id="408" />
+          </outline>
+        </outline>
+        <outline text="Северо-Кавказкий Федеральный Округ" rssowl:isSet="false" rssowl:id="409">
+          <outline text="05 - Республика Дагестан" rssowl:isSet="false" rssowl:id="410">
+            <outline text="МВД по Республике Дагестан" xmlUrl="http://05.xn--b1aew.xn--p1ai/news/rss" rssowl:id="411" />
+          </outline>
+          <outline text="06 - Республика Ингушетия" rssowl:isSet="false" rssowl:id="412">
+            <outline text="Пресс-служба МВД" xmlUrl="http://06.xn--b1aew.xn--p1ai/news/rss" rssowl:id="413" />
+          </outline>
+          <outline text="07 - Кабардино-Балкарская Республика" rssowl:isSet="false" rssowl:id="414">
+            <outline text="Пресс-служба МВД" xmlUrl="http://07.xn--b1aew.xn--p1ai/news/rss" rssowl:id="415" />
+          </outline>
+          <outline text="09 - Карачаево-Черкесская Республика" rssowl:isSet="false" rssowl:id="416">
+            <outline text="Пресс-служба МВД" xmlUrl="http://09.xn--b1aew.xn--p1ai/news/rss" rssowl:id="417" />
+          </outline>
+          <outline text="15 - Республика Северная Осетия" rssowl:isSet="false" rssowl:id="418">
+            <outline text="Пресс-служба МВД" xmlUrl="http://15.xn--b1aew.xn--p1ai/news/rss" rssowl:id="419" />
+          </outline>
+          <outline text="20 - Чеченская Республика" rssowl:isSet="false" rssowl:id="420">
+            <outline text="Пресс-служба МВД" xmlUrl="http://20.xn--b1aew.xn--p1ai/news/rss" rssowl:id="421" />
+          </outline>
+          <outline text="26 - Ставропольский край" rssowl:isSet="false" rssowl:id="422">
+            <outline text="Пресс-служба МВД" xmlUrl="http://26.xn--b1aew.xn--p1ai/news/rss" rssowl:id="423" />
+          </outline>
+        </outline>
+        <outline text="Уральский Федеральный Округ" rssowl:isSet="false" rssowl:id="424">
+          <outline text="45 - Курганская область" rssowl:isSet="false" rssowl:id="425">
+            <outline text="Пресс-служба МВД" xmlUrl="http://45.xn--b1aew.xn--p1ai/news/rss" rssowl:id="426" />
+          </outline>
+          <outline text="66 - Свердловская область" rssowl:isSet="false" rssowl:id="427">
+            <outline text="Главное управление МВД России по Свердловской области" xmlUrl="http://66.xn--b1aew.xn--p1ai/news/rss" rssowl:id="428" />
+          </outline>
+          <outline text="72 - Тюменская область" rssowl:isSet="false" rssowl:id="429">
+            <outline text="Пресс-служба МВД" xmlUrl="http://72.xn--b1aew.xn--p1ai/news/rss" rssowl:id="430" />
+          </outline>
+          <outline text="74 - Челябинская область" rssowl:isSet="false" rssowl:id="431">
+            <outline text="Главное управление МВД России по Челябинской области" xmlUrl="http://74.xn--b1aew.xn--p1ai/news/rss" rssowl:id="432" />
+          </outline>
+          <outline text="86 - Ханты-Мансийский автономный округ — Югра" rssowl:isSet="false" rssowl:id="433">
+            <outline text="Пресс-служба МВД" xmlUrl="http://86.xn--b1aew.xn--p1ai/news/rss" rssowl:id="434" />
+          </outline>
+          <outline text="89 - Ямало-Ненецкий автономный округ" rssowl:isSet="false" rssowl:id="435">
+            <outline text="Пресс-служба МВД" xmlUrl="http://89.xn--b1aew.xn--p1ai/news/rss" rssowl:id="436" />
+          </outline>
+        </outline>
+        <outline text="Сибирский Федеральный Округ" rssowl:isSet="false" rssowl:id="437">
+          <outline text="04 - Республика Алтай" rssowl:isSet="false" rssowl:id="438">
+            <outline text="Пресс-служба МВД" xmlUrl="http://04.xn--b1aew.xn--p1ai/news/rss" rssowl:id="439" />
+          </outline>
+          <outline text="03 - Республика Бурятия" rssowl:isSet="false" rssowl:id="440">
+            <outline text="МВД по Республике Бурятия" xmlUrl="http://03.xn--b1aew.xn--p1ai/news/rss" rssowl:id="441" />
+          </outline>
+          <outline text="17 - Республика Тыва" rssowl:isSet="false" rssowl:id="442">
+            <outline text="Пресс-служба МВД" xmlUrl="http://17.xn--b1aew.xn--p1ai/news/rss" rssowl:id="443" />
+          </outline>
+          <outline text="19 - Республика Хакасия" rssowl:isSet="false" rssowl:id="444">
+            <outline text="Министерство внутренних дел по Республике Хакасия" xmlUrl="http://19.xn--b1aew.xn--p1ai/news/rss" rssowl:id="445" />
+          </outline>
+          <outline text="22 - Алтайский край" rssowl:isSet="false" rssowl:id="446">
+            <outline text="Пресс-служба МВД" xmlUrl="http://22.xn--b1aew.xn--p1ai/news/rss" rssowl:id="447" />
+          </outline>
+          <outline text="75 - Забайкальский край" rssowl:isSet="false" rssowl:id="448">
+            <outline text="Пресс-служба МВД" xmlUrl="http://75.xn--b1aew.xn--p1ai/news/rss" rssowl:id="449" />
+          </outline>
+          <outline text="24 - Красноярский край" rssowl:isSet="false" rssowl:id="450">
+            <outline text="ГУ МВД России по Красноярскому краю" xmlUrl="http://24.xn--b1aew.xn--p1ai/news/rss" rssowl:id="451" />
+          </outline>
+          <outline text="38 - Иркутская область" rssowl:isSet="false" rssowl:id="452">
+            <outline text="ГУ МВД РОССИИ ПО ИРКУТСКОЙ ОБЛАСТИ" xmlUrl="http://38.xn--b1aew.xn--p1ai/news/rss" rssowl:id="453" />
+          </outline>
+          <outline text="42 - Кемеровская область" rssowl:isSet="false" rssowl:id="454">
+            <outline text="ГУ МВД России по Кемеровской области" xmlUrl="http://42.xn--b1aew.xn--p1ai/news/rss" rssowl:id="455" />
+          </outline>
+          <outline text="54 - Новосибирская область" rssowl:isSet="false" rssowl:id="456">
+            <outline text="Пресс-служба МВД" xmlUrl="http://54.xn--b1aew.xn--p1ai/news/rss" rssowl:id="457" />
+          </outline>
+          <outline text="55 - Омская область" rssowl:isSet="false" rssowl:id="458">
+            <outline text="Пресс-служба МВД" xmlUrl="http://55.xn--b1aew.xn--p1ai/news/rss" rssowl:id="459" />
+          </outline>
+          <outline text="70 - Томская область" rssowl:isSet="false" rssowl:id="460">
+            <outline text="Пресс-служба МВД" xmlUrl="http://70.xn--b1aew.xn--p1ai/news/rss" rssowl:id="461" />
+          </outline>
+        </outline>
       </outline>
     </outline>
-    <rssowl:label id="1" name="Important" order="0" color="163,21,2" />
-    <rssowl:label id="2" name="Work" order="1" color="200,118,10" />
-    <rssowl:label id="3" name="Personal" order="2" color="82,92,58" />
-    <rssowl:label id="4" name="To Do" order="3" color="92,101,126" />
-    <rssowl:label id="5" name="Later" order="4" color="82,16,0" />
   </body>
 </opml>
 
